@@ -11,7 +11,7 @@ What it does ?
 	- Official retailer 	: Check if listing manufacturer match product manufacturer AND model in title 
 	- High precision match 	: Listing title share Family AND Manufacturer AND Model name with product  
 	- Low precision match 	: Listing title share Manufacturer AND Model name with product  
-- Generate JSON file "res.json" that show all matches, total number, official retailer number, high and low precision matches
+- Generate JSON file "res.json" that show all matches, total matches, official retailer matches, high and low precision matches
 
 Start app with node : 
 
